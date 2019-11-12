@@ -1,0 +1,27 @@
+Environment:
+- The Temperature is in 0 and 65 .
+- The Humidite is in 0 and 100 .
+- CODeux is in 0 and 3 . 
+- The Courant Air is in 0 and 50 .
+- The Conso Elec is greater than 0 [Wh/min].
+- The Prod Elec is greater than 0 [Wh/min].
+- The Q Eau Chaude is greater than 0 [mcube].
+- The Car Charge is in 0 and 100 .
+- The R Prod Conso is in 0 and 100 .
+
+[1] "Le système doit se trouver dans la maison"
+[2] "[
+    Le système de la maison doit être équipé d'un écran permettant d'afficher
+    les données de la maison qui auront été captées avec des capteurs reliés à cet écran
+]"
+Composition systeme:
+[3] "Le système doit avoir plusieurs capteurs "
+[3.1] "Un capteur mesurant la température interne de la maison"
+[3.2] "Un capteur mesurant le taux d'humidité de la maison en % "
+[3.3] "Un capteur mesurant le taux de CO2 en % "
+[3.4] "Un capteur mesurant le taux de COV en %"
+[3.5] "Un capteur détectant un courant d'air en km"
+[3.6] "Un capteur mesurant la consommation d'electricité kw/h"
+[3.7] "Un capteur mesurant la production d'electricité kw/h"
+[3.8] "Un capteur mesurant la quantité d'eau chaude restante en litre cube"
+[3.9] "Un capteur mesurant la charge de la voiture en fonction de l'affichage de la voiture"
