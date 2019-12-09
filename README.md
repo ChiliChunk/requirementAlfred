@@ -12,6 +12,9 @@
 Detail du cas d'utilisation de la consultation de la qualité de l'air par diagramme de séquence
 ![Sequence](./Diagram/seq.PNG)
 
+## IBD
+![IBD](./Diagram/ibd.png)
+
 # Sujet original :  Alfred - Majordome de Batman
 
 L’idée est de créer un système qui viendra rendre les services suivants :
